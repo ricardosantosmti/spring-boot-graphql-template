@@ -1,5 +1,5 @@
 app:
-  icndb-url: https://api.icndb.com
+  icndb-url: http://api.icndb.com
 
 logging:
   level:
